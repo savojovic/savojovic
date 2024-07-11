@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning [Next.js](https://nextjs.org/)
 - 🔧 Languages: C, Java, Python, JavaScript
 - 🤔 I’m looking for interesting repositories to contribute to.
-- 📫 How to reach me: jovo.savic00gmail.com
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jovo-savic-820513236/)
